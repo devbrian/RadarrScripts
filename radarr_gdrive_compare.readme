@@ -7,3 +7,5 @@
       a. full parameter should be used if you want to pull data from gdrive (it writes it to a file)
       b. don't give any paramter and it will pull the gdrive data from file.
       c. This allows you to run it, make some radarr changes to fix missing files, then rerun without waiting 20minutes to pull new gdrive data
+      
+Script will print out paths that are missing from gdrive or missing from radarr
