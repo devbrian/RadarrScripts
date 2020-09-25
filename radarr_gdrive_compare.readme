@@ -1,0 +1,4 @@
+1. Replace {TEAMDRIVE_ID} with your teamdrive_id (can get from rclone)
+2. Replace {MOVIE_FOLDER_ID} with your movie folder ID in your teamdrive(can get from viewing folder in UI and copying the ID from the URL)
+3. Replace {RADARR_DB_PATH} with path to your radarr db, you can add more than 1.
+4. Replace /mnt/unionfs/Media/Movies/ with the path to your movies.
