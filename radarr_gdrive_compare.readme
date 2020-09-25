@@ -3,3 +3,4 @@
 3. Replace {RADARR_DB_PATH} with path to your radarr db, you can add more than 1.
 4. Replace /mnt/unionfs/Media/Movies/ with the path to your movies.
 5. https://developers.google.com/drive/api/v3/quickstart/python Follow this guide to get a credentials.json file and put it in same directory as this script.
+6. Run "python3 radarr_gdrive_compare.py full"
